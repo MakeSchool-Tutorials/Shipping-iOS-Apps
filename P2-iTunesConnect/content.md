@@ -7,7 +7,7 @@ iTunes Connect is separate portal that is only used to submit and manage Apps th
 
 #Create the App in iTunes Connect
 
-Go to [iTunes Connect](itunesconnect.apple.com) and log in with your developer account.
+Go to [iTunes Connect](http://itunesconnect.apple.com) and log in with your developer account.
 
 Select *My Apps*:
 ![image](./itunes_myapps.png)
