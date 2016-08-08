@@ -3,6 +3,18 @@ title: "App Icons and Launch Images"
 slug: icons-launch-images
 ---
 
+###Useful links and resources for icons and app store screenshots
+- _Online editors_:
+  - [Launchkit](https://launchkit.io/)
+  - [Makeappicon](https://makeappicon.com)
+- _Software/Applications_:
+  - __Sketch__
+      - [designmodo](http://designmodo.com/icon-design-sketch/)
+      - [sketchappsources](http://www.sketchappsources.com/tutorials-tips.html)
+      - [MengTo/AppStoreSketch](https://github.com/MengTo/AppStoreSketch)
+  - __Photoshop__
+      - [raywenderlich](https://www.raywenderlich.com/71175/make-great-app-store-screenshots)
+
 Every App for iOS needs Launch Images and App Icons in a variety of sizes - to support the different iOS devices available.
 
 App Icons and Launch Images for your App need to be set up in Xcode. This can be done easiest by using an *Asset Catalog*. Select the *Use Asset Catalog*. When Xcode asks if

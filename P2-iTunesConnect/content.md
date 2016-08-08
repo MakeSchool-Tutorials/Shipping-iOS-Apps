@@ -38,7 +38,7 @@ Once you have chosen these settings, hit the save button in the bottom right.
 
 When you go back to the main page of your app you will see a *Submit for Review* button in the top right corner. If you hit this button iTunes Connect will tell you which information is missing before your app can be submitted for review. If you have provided all the necessary information so far, the only missing part should be:
 
-- *You must submit your builds using Xcode 5.1.1 or later, or Application Loader 3.0 or later. After you’ve submitted a build, select it in the Builds section below.*
+- *You must submit your builds using Xcode 6 or later, or Application Loader 3.0 or later. After you’ve submitted a build, select it in the Builds section below.*
 
 In the next steps we will prepare the Xcode settings of your app for submission, then we will be able to upload a build that can be selected in iTunes Connect.
 
