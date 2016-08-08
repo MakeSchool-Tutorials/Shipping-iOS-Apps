@@ -5,7 +5,6 @@ slug: icons-launch-images
 
 ###Useful links and resources for icons and app store screenshots
 - _Online editors_:
-  - [Launchkit](https://launchkit.io/)
   - [Makeappicon](https://makeappicon.com)
 - _Software/Applications_:
   - __Sketch__
