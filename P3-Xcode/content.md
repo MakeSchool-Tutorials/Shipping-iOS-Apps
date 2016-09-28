@@ -32,7 +32,7 @@ Click the arrow next to the App Icon entry and it will open your current App Ico
 
 ![image](./xcode_asset_catalog_appicon.png)
 
-Apple provides a [nice guide](https://developer.apple.com/library/IOs/documentation/UserExperience/Conceptual/MobileHIG/IconMatrix.html#//apple_ref/doc/uid/TP40006556-CH27-SW1) that lists App Icon and Launch Image sizes and requirements. You should fill all the empty slots in your asset catalog before submitting your app. You can add images by dragging them to the appropriate slot.
+Apple provides a [nice guide](https://developer.apple.com/ios/human-interface-guidelines/graphics/app-icon/) that lists App Icon and Launch Image sizes and requirements. You should fill all the empty slots in your asset catalog before submitting your app. You can add images by dragging them to the appropriate slot.
 
 #Code Signing
 Every iOS app gets signed digitally so that the App Store and the User can ensure that the apps being installed are actually provided by the claimed developer.
