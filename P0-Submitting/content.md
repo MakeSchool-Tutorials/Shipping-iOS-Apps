@@ -173,7 +173,7 @@ Once you're ready, click the `Submit for Review` button.
 
 # ???
 
-Now it's a waiting game! The review process used to take a week or longer but lately it takes about 24-48 hours. Hopefully you get approved with no issues but if Apple reaches out asking you to fix something, fix it and try again!
+Now it's a waiting game! The review process used to take a week or longer but lately it takes about 24-72 hours (you can view average wait times [here](http://appreviewtimes.com/)). Hopefully you get approved with no issues but if Apple reaches out asking you to fix something, fix it and try again!
 
 For an overview of the different statuses your app can be in, see [this page](https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/Chapters/ChangingAppStatus.html#//apple_ref/doc/uid/TP40011225-CH30-SW1).
 
