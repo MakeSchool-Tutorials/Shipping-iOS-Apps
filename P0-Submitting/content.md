@@ -19,7 +19,11 @@ Throughout the next pages we will guide you through the process of submitting yo
 
 # Create an Apple Developer Account
 
-First of all, you will need to create an Apple Developer Account to publish your app. Apple charges $99 a year for this account and you must have one to release apps on the app store. You can register as a developer on [Apple's Developer Portal](https://developer.apple.com/register/). If you already have an Apple ID you can sign in with that and purchase the Developer Account. If you don't have an Apple ID yet, you will have to create that first (there's a link on the page that brings you to the signup page).
+> [info]
+>
+**If you are under 18, you will need to publish under your an account connected to your parent/guardian's name. Since you will need regular access to this account, it may be best to ask them to create a new account specifically for publishing.** When you turn 18, you can register as developer under your own account and transfer the apps to it so they will be published under your name.
+
+First, you will need to create an Apple Developer Account to publish your app. Apple charges $99 a year for this account and you must have one to release apps on the app store. You can register as a developer on [Apple's Developer Portal](https://developer.apple.com/register/). If you already have an Apple ID you can sign in with that and purchase the Developer Account. If you don't have an Apple ID yet, you will have to create that first (there's a link on the page that brings you to the signup page).
 
 Once you are successfully enrolled in Apple's developer program, you can move on to the next step!
 
