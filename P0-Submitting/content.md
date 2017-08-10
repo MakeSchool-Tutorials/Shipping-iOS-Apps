@@ -101,6 +101,23 @@ You should fill out the next screen as follows:
 >
 Hit `Submit` and confirm the Settings on the next Screen. Now your App ID is created.
 
+## Create a Signing Certificate
+
+If you haven't released any Apps with your account yet you will need to create a new *Certificate*. This certificate will be used to create a *Provisioning Profile* and that will finally be used to generate an App archive that can be uploaded to the App Store. If you don't have a distribution certificate yet, create one by selecting `Certificates -> All` in the left panel and hitting the `+` button in the top right.
+
+On the next page you need to select *App Store and Ad Hoc*:
+![image](./AppStoreCertificate.png)
+
+Hit *Continue*.
+
+**Follow the instructions on the screen** to create CSR file. After you created the CSR file go on to the next screen.
+
+On the next screen upload the CSR file you created. Then hit *Generate*.
+
+On the next page download the generated certificate and add it to you keychain by double-clicking on the downloaded file.
+
+The certificate you have just created can be used to generate as many provisioning profiles as you want.
+
 ## Create a Provisioning Profile  
 
 Next, you need to create a *Provisioning Profile*. Provisioning Profiles are unique per App that you upload to the App Store, just as the App ID that we created in the first step.
