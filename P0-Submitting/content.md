@@ -162,7 +162,7 @@ You have 100 characters, use them wisely! When choosing keywords, we want to opt
 
 High traffic, high competition keywords will make it hard for your app to get noticed in the massive number of results. Low traffic keywords tend to be worthless since no one is searching for them.
 
-You can use a website like [SensorTower](sensortower.com) to get data on keyword traffic and competition.
+You can use a website like [SensorTower](http://sensortower.com) to get data on keyword traffic and competition.
 
 ## Description
 
